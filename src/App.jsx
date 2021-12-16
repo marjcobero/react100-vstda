@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import AddToDo from "./components/AddTodo";
-import ViewToDo from "./components/ViewToDo";
-import EditToDo from "./components/EditTodo";
+import AddToDo from "./AddToDo";
+import ViewToDo from "./ViewToDo";
+import EditToDo from "./EditToDo";
 
 class App extends Component {
   constructor(props) {

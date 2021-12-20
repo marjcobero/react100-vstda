@@ -6,7 +6,7 @@ The application allows users to enter their todo items and prioritize them based
  * check mark the task. 
 
 Built with:
- * UI is React framework with bootstrap
+ * UI is ReactJS library with bootstrap
  * Server backend is build with Node Express
  * Tested with Mocha
 
